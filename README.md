@@ -20,12 +20,12 @@ A conceptual RESTful API backend built with Python (Flask/Django) for an e-comme
 1. Clone the repository.
 2. Create and activate a virtual environment (as above).
 3. Install dependencies (choose based on Flask or Django):
-4.# For Flask example:
+4. For Flask example:
 5. pip install Flask SQLAlchemy Flask-Migrate bcrypt
-6.# For Django example:
+6. For Django example:
 7. pip install Django djangorestframework
 
 8. Configure the database and run migrations (specifics vary by framework).
 9. Run the server:
-10.# Flask: flask run
-11.# Django: python manage.py runserver
+10. Flask: flask run
+11. Django: python manage.py runserver
